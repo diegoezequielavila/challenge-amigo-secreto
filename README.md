@@ -1,12 +1,25 @@
 # Challenge: Amigo Secreto
 
 ## Descripción
+Esta aplicación web nos permite agregar nombres de amigos a una lista y luego seleccionar aleatoriamente un "amigo secreto". Esta es una forma divertida de organizar un intercambio de regalos entre amigos, familiares o compañeros de trabajo.
 
+## Características
+- Agregar nombres a una lista de amigos.
+- Evitar nombres duplicados. 
+- Seleccionar aleatoriamente un amigo secreto.
+- Simple y facil de usar.
 
-Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+## Tecnologías usadas
+- **HTML:** Estructura de la pagina web.
+- **CSS:** Estilo y diseño visual.
+- **JavaScrip:** Lógica de la aplicacion.
 
-Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+## Estructura del proyecto
 
-Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+│-- index.html        # Estructura de la página
+│-- style.css         # Estilos visuales
+│-- app.js            # Lógica de la aplicación
+│-- README.md         # Documentación del proyecto
 
-Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+## Autor
+Desarrollado por Diego Avila
