@@ -16,10 +16,10 @@ Esta aplicación web nos permite agregar nombres de amigos a una lista y luego s
 
 ## Estructura del proyecto
 
-│-- index.html        # Estructura de la página
-│-- style.css         # Estilos visuales
-│-- app.js            # Lógica de la aplicación
-│-- README.md         # Documentación del proyecto
+- index.html        # Estructura de la página
+- style.css         # Estilos visuales
+- app.js            # Lógica de la aplicación
+- README.md         # Documentación del proyecto
 
 ## Autor
 Desarrollado por Diego Avila
