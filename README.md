@@ -1,3 +1,4 @@
+![Challenge](assets/amigo-secreto.png)
 # Challenge: Amigo Secreto
 
 ## Descripción
